@@ -1,5 +1,5 @@
 **Population Density and Urban Growth Visualization**
-   - **Description:**: A data visualization project examining how population density influences city development—whether cities should expand horizontally or vertically. Employed both the Vega-Lite library and Tableau to create interactive maps and diagrams that highlight relationships between population density, house prices, energy usage, and public transport infrastructure across different cities worldwide.
+   - **Description**: A data visualization project examining how population density influences city development—whether cities should expand horizontally or vertically. Employed both the Vega-Lite library and Tableau to create interactive maps and diagrams that highlight relationships between population density, house prices, energy usage, and public transport infrastructure across different cities worldwide.
    - **Notebook**: [https://datascience-arian-eskandari.github.io/Population_density/final-html.html] (https://datascience-arian-eskandari.github.io/Population_density/final-html.html)
      ***(Please change zoom to fit your screen)***
    - **Highlights**:
